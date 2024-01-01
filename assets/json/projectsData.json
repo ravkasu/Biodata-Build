@@ -1,0 +1,32 @@
+[
+    {
+        "projectname": "ICS - Industrial Control System (CITI)",
+        "desc": "Front-end Technologies: HTML5, CSS3, JavaScript, J QUERY & Typescript, Less / Sass, Bootstrap4, Angular 10",
+        "desc1": "Back-end technologies: MySQL & JAVA Spring Boot Framework"
+    },
+    {
+        "projectname": "Incontrol",
+        "desc": "Front-end Technologies: HTML5, CSS3, JavaScript, J QUERY & Typescript, Less / Sass, Bootstrap5, Angular 10",
+        "desc1": "Back-end technologies: MySQL & JAVA Spring Boot Framework"
+    },
+    {
+        "projectname": "Maxis IT clinical research portal",
+        "desc": "Front-end Technologies: HTML5, CSS3, JavaScript, J QUERY & Typescript, Less / Sass, Bootstrap4, Angular 7",
+        "desc1": "Back-end technologies: MySQL & JAVA Spring Boot Framework"
+    },
+    {
+        "projectname": "Distributor & Reseller Products Purchases and Orders Application (Westcon Blue-sky)",
+        "desc": "Front-end Technologies: HTML5, CSS3, JavaScript, J QUERY & Typescript, Less / Sass, Bootstrap4, Angular 7",
+        "desc1": "Back-end technologies: MySQL & JAVA Spring Boot Framework"
+    },
+    {
+        "projectname": "E-Commerce Application for Cloud Services (iMicron Cloud)",
+        "desc": "Front-end Technologies: HTML5, CSS3, JavaScript, J QUERY & Typescript, Less / Sass, Bootstrap4, Angular 7",
+        "desc1": "Back-end technologies: MySQL & JAVA Spring Boot Framework"
+    },
+    {
+        "projectname": "Hotels & Properties Inspections Web & Mobile Application (HELMSBRISCOE)",
+        "desc": "Front-end Technologies: HTML5, CSS3, JavaScript, J QUERY & Typescript, Less / Sass, Bootstrap4, Angular 7",
+        "desc1": "Back-end technologies: MySQL & JAVA Spring Boot Framework"
+    }
+]
